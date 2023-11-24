@@ -1,0 +1,2 @@
+# Yaz-l-mfurkan
+IBAN bahış TR49 0013 4000 0231 1813 3000 01
